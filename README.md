@@ -6,11 +6,7 @@ This Tic Tac Toe game is a **prompt engineering project**, created with the help
 
 ## Screenshots
 
-### Menu
-<img src="image1.png" alt="Menu" width="350"/>
-
-### Ingame
-<img src="image2.png" alt="Ingame" width="350"/>
+<img src="image1.png" alt="Menu" width="350"/> <img src="image2.png" alt="Ingame" width="350"/>
 
 ## Features
 
