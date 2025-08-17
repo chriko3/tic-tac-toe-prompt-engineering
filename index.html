@@ -1,11 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tic Tac Toe Promt Engineering</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    
+
+    <h1>Tic Tac Toe Prompt Engineering</h1>
+
+    <div id="mode-selection">
+        <button onclick="startGame('solo')">Solo</button>
+        <button onclick="startGame('computer')">Computer</button>
+    </div>
+
+    <div id="content" style="display: none;"></div>
+    <script src="./script.js"></script>
+
+    <button class="display-none" onclick="restartGame()" id="restart-Button">Spiel neustarten</button>
 </body>
+
 </html>
